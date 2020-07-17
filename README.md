@@ -1,5 +1,7 @@
 # Movie-Recommendation-Point
 
+Basic recommendation system by suggesting movies that are most similar to a particular movie.
+
 This dataset describes 5-star rating,Users were selected at random for inclusion. All selected users had rated at least 20 movies. No demographic information is included. Each user is represented by an id, and no other information is provided.
 
 the data are contained in the files  `movies.csv` and `ratings.csv` 
@@ -43,4 +45,4 @@ Genres are a pipe-separated list, and are selected from the following:
 * Thriller
 * War
 
-Basic recommendation system by suggesting movies that are most similar to a particular movie.
+
